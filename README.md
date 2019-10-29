@@ -1,2 +1,9 @@
 # PRG2k19
-ejercicios java
+Ejercicios de Java
+
+T1
+T2
+T3
+T4
+T5
+T6
